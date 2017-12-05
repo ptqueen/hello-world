@@ -1,3 +1,5 @@
 # hello-world
-Testing
+TestiNG
 "Am I going to make it through this class?"
+"I hope I make it through this class!"
+
